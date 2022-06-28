@@ -30,7 +30,7 @@ Data science and related project portfolio
 
 
 ---------------------------------------------------------------------------------------------------
-Results of Binary and Multi-class classification 
+# Results of Binary and Multi-class classification 
 
 <img align="left" src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="42%" height="42%"/>
 <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="40%" height="40%"/>

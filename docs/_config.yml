@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+
+url: 'https://Oisin-O-Siochru.github.io/' # your main domain
+baseurl: 'Portfolio/'

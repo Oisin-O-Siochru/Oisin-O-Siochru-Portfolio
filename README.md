@@ -31,5 +31,5 @@ Data science and related project portfolio
 
 ---------------------------------------------------------------------------------------------------
 
-<img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="43%" height="43%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="42%" height="42%"/>
+<img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="43%" height="43%"/> <img align = "right" src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="42%" height="42%"/>
 <img src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" width="40%" height="40%"/> <img align = "right" src="{{ "/images/Confusion%20Matrix%20for%20all.png" | prepend: site.baseurl | prepend: site.url}}" alt="/images/Confusion%20Matrix%20for%20all"  width="40%" height="40%"/>

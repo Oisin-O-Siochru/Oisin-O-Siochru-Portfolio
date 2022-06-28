@@ -13,10 +13,10 @@ Data science and related project portfolio
 * Presented summary statistics in pub review counts, ratings, and pricing ranges accross dublin both graphically and with mapping visualisation.
 
 ### Results of statistical summary 
-<img src="{{ "/images/Generalvis.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Generalvis" width="80%" height="80%"/>
-<img src="{{ "/images/Boxplots.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Boxplots" width="80%" height="80%"/>
+<img src="{{ "/images/Generalvis.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Generalvis" width="100%" height="100%"/>
+<img src="{{ "/images/Boxplots.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Boxplots" width="100%" height="100%"/>
 
-### Mapping Visualisations 
+## Mapping Visualisations 
 
 ### Zip codes by number of reviews 
 
@@ -46,4 +46,5 @@ Data science and related project portfolio
 
 ---------------------------------------------------------------------------------------------------
 
-<img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="43%" height="43%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="42%" height="42%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" width="40%" height="40%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20all.png" | prepend: site.baseurl | prepend: site.url}}" alt="/images/Confusion%20Matrix%20for%20all"  width="40%" height="40%"/>
+<img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="43%" height="43%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="42%" height="42%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" width="40%" height="40%"/> 
+<img src="{{ "/images/Confusion%20Matrix%20for%20all.png" | prepend: site.baseurl | prepend: site.url}}" alt="/images/Confusion%20Matrix%20for%20all"  width="40%" height="40%"/>

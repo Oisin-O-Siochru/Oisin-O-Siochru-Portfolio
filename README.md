@@ -18,7 +18,7 @@ Data science and related project portfolio
 * Characterised and visualised with tables and graphic visualisations with various python packages for each step such as NumPy, Pandas, Matplotlib, Seaborn. 
 * Summarised insights gained from analysis of the datasets.
 
-# Academic Project 2: Web scraping text classification project:
+# Academic Project 2: Webscraping Text Classification Project:
 * Scraped a corpus of news stories through parsing a set of web page HTML and extracting specific text information. 
 * Applied appropriate pre-processing steps to create a numeric representation of the documents suitable to train
 * Performance binary classification and multi-class classification using KNN classification and 5 fold cross validation to classify news stories catagories from the set of extracted articles. 

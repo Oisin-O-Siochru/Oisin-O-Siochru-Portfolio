@@ -24,9 +24,9 @@ Data science and related project portfolio
 * Performance binary classification and multi-class classification using KNN classification and 5 fold cross validation to classify news stories catagories from the set of extracted articles. 
 * Used various python packages such as scikit-learn, itertools, beautiful soup.
 
-[](https://github.com/Oisin-O-Siochru/Portfolio/blob/main/images/Average%20accuracies%20of%20pair%20classification.png)
-[](https://github.com/Oisin-O-Siochru/Portfolio/blob/main/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png)
-[](https://github.com/Oisin-O-Siochru/Portfolio/blob/main/images/Confusion%20Matrix%20for%20Film%20and%20Business.png)
-[](https://github.com/Oisin-O-Siochru/Portfolio/blob/main/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png)
-[](https://github.com/Oisin-O-Siochru/Portfolio/blob/main/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png)
-[](https://github.com/Oisin-O-Siochru/Portfolio/blob/main/images/Confusion%20Matrix%20for%20all.png)
+[](/images/Average%20accuracies%20of%20pair%20classification.png)
+[](/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png)
+[](/images/Confusion%20Matrix%20for%20Film%20and%20Business.png)
+[](/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png)
+[](/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png)
+[](/images/Confusion%20Matrix%20for%20all.png)

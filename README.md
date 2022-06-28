@@ -26,6 +26,8 @@ Data science and related project portfolio
 
 
 ![](/images/Average%20accuracies%20of%20pair%20classification.png)
+<img src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" />
+
 
 <img src="/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" width="414" height="412">
 <img src="/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" width="414" height="412">

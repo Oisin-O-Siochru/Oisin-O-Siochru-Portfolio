@@ -26,7 +26,7 @@ Data science and related project portfolio
 
 
 <img align="left" src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" width="314" height="312"/>
-<img align="right" src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification" width="327" height="250"/>
+<img align="right" src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification" width="490" height="375"/>
 <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" />
 <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" />
 <img src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" />

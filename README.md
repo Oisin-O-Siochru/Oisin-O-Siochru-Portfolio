@@ -25,8 +25,8 @@ Data science and related project portfolio
 * Used various python packages such as scikit-learn, itertools, beautiful soup.
 
 ![](/images/Average%20accuracies%20of%20pair%20classification.png)
-[](/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png)
-[](/images/Confusion%20Matrix%20for%20Film%20and%20Business.png)
-[](/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png)
-[](/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png)
-[](/images/Confusion%20Matrix%20for%20all.png)
+![](/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png)
+![](/images/Confusion%20Matrix%20for%20Film%20and%20Business.png)
+![](/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png)
+![](/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png)
+![](/images/Confusion%20Matrix%20for%20all.png)

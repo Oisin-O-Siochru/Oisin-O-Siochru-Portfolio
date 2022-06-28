@@ -25,13 +25,9 @@ Data science and related project portfolio
 * Used various python packages such as scikit-learn, itertools, beautiful soup.
 
 
-##[](/images/Average%20accuracies%20of%20pair%20classification.png)
-
 <img src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" />
-
-
-<img src="/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" width="414" height="412">
-<img src="/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" width="414" height="412">
-<img src="/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" width="414" height="412">
-<img src="/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" width="414" height="412">
-<img src="/images/Confusion%20Matrix%20for%20all.png" width="414" height="412">
+<img src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification" />
+<img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" />
+<img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" />
+<img src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" />
+<img src="{{ "/images/Confusion%20Matrix%20for%20all.png" | prepend: site.baseurl | prepend: site.url}}" alt="/images/Confusion%20Matrix%20for%20all" />

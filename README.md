@@ -25,7 +25,8 @@ Data science and related project portfolio
 * Used various python packages such as scikit-learn, itertools, beautiful soup.
 
 
-![](/images/Average%20accuracies%20of%20pair%20classification.png)
+##[](/images/Average%20accuracies%20of%20pair%20classification.png)
+
 <img src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" />
 
 

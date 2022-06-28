@@ -12,6 +12,21 @@ Data science and related project portfolio
 * Applied pre-processing steps (cleaning, filtering) to json data and parsed raw data to csv format.
 * Presented summary statistics in pub review counts, ratings, and pricing ranges accross dublin both graphically and with mapping visualisation.
 
+### Results of statistical summary 
+<img src="{{ "/images/Generalvis.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Generalvis" width="80%" height="80%"/>
+<img src="{{ "/images/Boxplots.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Boxplots" width="80%" height="80%"/>
+
+### Mapping Visualisations 
+
+### Zip codes by number of reviews 
+
+<img src="{{ "/images/Review%20count.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Review%20count" width="80%" height="80%"/>
+
+### Zip codes by average rating
+
+<img src="{{ "/images/Rating.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Rating" width="80%" height="80%"/>
+
+
 ## Academic Project 1: Football API Data Visualisation Project: 
 * Called and collected raw data from a public web football league API using Python and stored in JSON for subsequent analysis. 
 * Applied pre-processing steps (cleaning, filtering & integration).

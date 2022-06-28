@@ -12,7 +12,7 @@ Data science and related project portfolio
 * Applied pre-processing steps (cleaning, filtering) to json data and parsed raw data to csv format.
 * Presented summary statistics in pub review counts, ratings, and pricing ranges accross dublin both graphically and with mapping visualisation.
 
-### Results of statistical summary 
+## Results of statistical summary 
 <img src="{{ "/images/Generalvis.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Generalvis" width="120%" height="120%"/>
 <img src="{{ "/images/Boxplots.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Boxplots" width="120%" height="120%"/>
 

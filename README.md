@@ -13,8 +13,8 @@ Data science and related project portfolio
 * Presented summary statistics in pub review counts, ratings, and pricing ranges accross dublin both graphically and with mapping visualisation.
 
 ### Results of statistical summary 
-<img src="{{ "/images/Generalvis.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Generalvis" width="100%" height="100%"/>
-<img src="{{ "/images/Boxplots.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Boxplots" width="100%" height="100%"/>
+<img src="{{ "/images/Generalvis.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Generalvis" width="120%" height="120%"/>
+<img src="{{ "/images/Boxplots.png" | prepend: site.baseurl | prepend: site.url}}" alt="/Boxplots" width="120%" height="120%"/>
 
 ## Mapping Visualisations 
 

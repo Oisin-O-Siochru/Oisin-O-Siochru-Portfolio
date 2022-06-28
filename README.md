@@ -24,14 +24,10 @@ Data science and related project portfolio
 * Performance binary classification and multi-class classification using KNN classification and 5 fold cross validation to classify news stories catagories from the set of extracted articles. 
 * Used various python packages such as scikit-learn, itertools, beautiful soup.
 
-
-<img src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" width="42%" height="42%"/>
-<img src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification" width="55%" height="55%"/>
-
 ---------------------------------------------------------------------------------------------------
-### Results of Binary and Multi-class classification 
+### Results of Binary and Multi-class classification  
 
-<img align="left" src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="42%" height="42%"/>
-<img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="40%" height="40%"/>
-<img src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" width="40%" height="40%"/>
-<img src="{{ "/images/Confusion%20Matrix%20for%20all.png" | prepend: site.baseurl | prepend: site.url}}" alt="/images/Confusion%20Matrix%20for%20all"  width="35%" height="35%"/>
+<img src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" width="42%" height="42%"/> <img src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification" width="55%" height="55%"/>
+
+<img align="left" src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="42%" height="42%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="40%" height="40%"/>
+<img src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" width="40%" height="40%"/> <img src="{{ "/images/Confusion%20Matrix%20for%20all.png" | prepend: site.baseurl | prepend: site.url}}" alt="/images/Confusion%20Matrix%20for%20all"  width="40%" height="40%"/>

@@ -27,7 +27,7 @@ Data science and related project portfolio
 
 <img align="left" src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" width="40%" height="40%"/>
 <img align="right" src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification" width="55%" height="55%"/>
-<img align="left "src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="75%" height="75%"/>
+<img align="left" src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Business" width="75%" height="75%"/>
 <img align="centre" src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Sport.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Film%20and%20Sport" width="75%" height="75%"/>
 <img align="right" src="{{ "/images/Confusion%20Matrix%20for%20Sport%20and%20Business.png" | prepend: site.baseurl | prepend: site.url}}" alt="Confusion%20Matrix%20for%20Sport%20and%20Business" width="75%" height="75%"/>
 <img align="centre" src="{{ "/images/Confusion%20Matrix%20for%20all.png" | prepend: site.baseurl | prepend: site.url}}" alt="/images/Confusion%20Matrix%20for%20all"  width="75%" height="75%"/>

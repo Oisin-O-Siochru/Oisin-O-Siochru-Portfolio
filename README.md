@@ -45,7 +45,6 @@ Data science and related project portfolio
 * Performance binary classification and multi-class classification using KNN classification and 5 fold cross validation to classify news stories catagories from the set of extracted articles. 
 * Used various python packages such as scikit-learn, itertools, beautiful soup.
 
----------------------------------------------------------------------------------------------------
 ### Results of Binary and Multi-class classification  
 
 <img src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20accuracies%20of%20pair%20classification" width="42%" height="42%"/> <img src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url}}" alt="Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification" width="55%" height="55%"/>

@@ -7,6 +7,12 @@ Data science and related project portfolio
 * Manipulated and cleaned datasets for demographic segregation prior to forecasting retail demand. 
 * Presented relevant findings and business implications based on model metric evaluation.
 
+### Exmaple of model demand forecasts for top 5 product SKUs and 10th to 20th top product SKUs
+
+<img src="{{ "/images/SARIMA%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="SARIMA%20Forecast%20SKU%20Results" width="100%" height="100%"/> <img src="{{ "/images/LSTM%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="LSTM%20Forecast%20SKU%20Results" width="100%" height="100%"/> 
+<img src="{{ "/images/Rolling%20ARIMA%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="Rolling%20ARIMA%20Forecast%20SKU%20Results" width="100%" height="100%"/> <img src="{{ "/images/Hybrid%20ARIMA-ANN%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="Hybrid%20ARIMA-ANN%20Forecast%20SKU%20Results" width="100%" height="100%"/> 
+
+
 ## Personal Project 1: YELP API Dublin Pub Data Visualisation Project:
 * Called and collected raw pub data from the greater Dublin area  using YELP Fusion API.
 * Applied pre-processing steps (cleaning, filtering) to json data and parsed raw data to csv format.

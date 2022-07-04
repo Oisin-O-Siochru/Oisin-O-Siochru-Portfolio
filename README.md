@@ -9,8 +9,6 @@ Data science and related project portfolio
 
 ### Exmaple of model demand forecasts for top 5 product SKUs and 10th to 20th top product SKUs
 
-<img src="{{ "/images/SARIMA%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="SARIMA%20Forecast%20SKU%20Results" width="50%" height="50%"/> <img src="{{ "/images/LSTM%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="LSTM%20Forecast%20SKU%20Results" width="50%" height="50%"/> 
-<img src="{{ "/images/Rolling%20ARIMA%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="Rolling%20ARIMA%20Forecast%20SKU%20Results" width="50%" height="50%"/> <img src="{{ "/images/Hybrid%20ARIMA-ANN%20Forecast%20SKU%20Results.png" | prepend: site.baseurl | prepend: site.url}}" alt="Hybrid%20ARIMA-ANN%20Forecast%20SKU%20Results" width="50%" height="50%"/> 
 
 
 ## Personal Project 1: YELP API Dublin Pub Data Visualisation Project:

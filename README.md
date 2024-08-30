@@ -87,8 +87,11 @@ Scraped a corpus of news stories through parsing web page HTML to extract specif
 
 <p align="center">
   <img src="{{ "/images/Average%20accuracies%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url }}" alt="Average Accuracies of Pair Classification" width="45%" />
+</p>
+<p align="center">
   <img src="{{ "/images/Average%20fold%20accuracies%20vs%20KNN%20of%20pair%20classification.png" | prepend: site.baseurl | prepend: site.url }}" alt="Average Fold Accuracies vs KNN of Pair Classification" width="45%" />
 </p>
+
 
 <p align="center">
   <img src="{{ "/images/Confusion%20Matrix%20for%20Film%20and%20Business.png" | prepend: site.baseurl | prepend: site.url }}" alt="Confusion Matrix for Film and Business" width="45%" />

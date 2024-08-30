@@ -42,8 +42,11 @@ Utilized the YELP Fusion API to collect raw pub data from the greater Dublin are
 
 <p align="center">
   <img src="{{ "/images/Generalvis.png" | prepend: site.baseurl | prepend: site.url }}" alt="General Visualization" width="45%" />
+</p>
+<p align="center">
   <img src="{{ "/images/Boxplots.png" | prepend: site.baseurl | prepend: site.url }}" alt="Boxplots" width="45%" />
 </p>
+
 
 **Mapping Visualizations:**
 

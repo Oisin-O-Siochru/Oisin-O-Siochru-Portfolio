@@ -1,3 +1,15 @@
+<div style="background-color: #1e1e1e; color: white; padding: 20px; border-radius: 8px;">
+
+<!-- Profile Image and Title -->
+<p align="left" style="display: flex; align-items: center;">
+  <img src="{{ "/path/to/profile.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Profile Image" width="100" style="border-radius: 50%; margin-right: 15px; border: 2px solid white;" />
+  <span style="font-size: 2em; font-weight: bold;">Portfolio</span>
+</p>
+
+<p style="font-size: 1.2em; margin-top: -10px;">Data science and related project portfolio</p>
+
+---
+
 # Portfolio
 
 Welcome to my GitHub portfolio! Here, you will find a collection of my work in big data analytics, machine learning, web scraping, and data visualization. Below are some highlights of my projects.
